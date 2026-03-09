@@ -36,3 +36,8 @@ htmlcov/
 
 .DS_Store
 Thumbs.db
+tmp/
+.htaccess
+*.bak
+db.sqlite3
+static_collected/
